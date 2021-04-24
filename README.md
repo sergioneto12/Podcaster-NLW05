@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Better Podcast to Understand New Concepts!
 
-## Getting Started
+![Calculadora de Corrida](https://github.com/sergioneto12/RunApp/blob/master/Calculadora%20de%20Corrida.jpg)
 
-First, run the development server:
+# Needless to Create?
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This web application was part of the Next Level Week, a free event done by Rocketseat.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It's completely defined to be a podcast site, in which you can make most of what you want to listen.
+The complete coding is done with Typescript, and was chosen this way for the reason of understanding erros and handling with them with the "language"!
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Some packages were added to the Next App: rc-slider, typescript by itself (as the project comes in JS), axios (we use a local server), date-fns for dates and scss, noy only CSS this time!
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Can I run it?
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+You can! But first: 
+******* make sure you have 2 terminals, the ones you want.
 
-## Learn More
+At your first, you type "yarn server" to get the intern server running.
+After that, on the other hand (;D) you type "yarn start" to see the magic happens!
 
-To learn more about Next.js, take a look at the following resources:
+# Depolyed?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project will be a base to many experiments and to other coming project, so now, it won't get deployed...
