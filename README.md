@@ -1,6 +1,6 @@
 # The Better Podcast to Understand New Concepts!
 
-![Calculadora de Corrida](https://github.com/sergioneto12/RunApp/blob/master/Calculadora%20de%20Corrida.jpg)
+![Podcaster](https://github.com/sergioneto12/Podcaster-NLW05/blob/main/Podcaster.png)
 
 # Needless to Create?
 
@@ -12,6 +12,8 @@ The complete coding is done with Typescript, and was chosen this way for the rea
 Some packages were added to the Next App: rc-slider, typescript by itself (as the project comes in JS), axios (we use a local server), date-fns for dates and scss, noy only CSS this time!
 
 # Can I run it?
+
+![HowTo](https://github.com/sergioneto12/Podcaster-NLW05/blob/main/HowTo.png)
 
 You can! But first: 
 ******* make sure you have 2 terminals, the ones you want.
